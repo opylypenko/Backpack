@@ -2,7 +2,7 @@
 
 ## Fork notes (TX Backpack test stand)
 
-This fork contains a small **ESP32-S3 test stand** firmware intended for validating **TX Backpack VTX channel updates** with an SSD1306 OLED + serial logs.
+This fork contains a small **ESP32-S3 super mini test stand** firmware intended for validating **TX Backpack VTX channel updates** with an SSD1306 OLED + serial logs.
 
 - PlatformIO env: `Test_Stand_ESP32S3_Backpack_via_UART`
 
